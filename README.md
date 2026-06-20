@@ -110,9 +110,9 @@ The last 10 filters you applied in the current session, with one-click re-apply 
 
 | Platform | Supported |
 |---|---|
-| Windows |
-| macOS |
-| Linux |
+| Windows | Yes |
+| macOS | Yes |
+| Linux | Yes |
 
 ---
 
