@@ -116,12 +116,6 @@ The last 10 filters you applied in the current session, with one-click re-apply 
 
 ---
 
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 ## Contributing
 
 Pull requests are welcome. To add a new filter, add an entry to the `filters` table in `filter_reference_menu.lua`:
